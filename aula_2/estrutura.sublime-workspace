@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"text-",
+				"text-shadow\tproperty"
+			],
+			[
+				"bck",
+				"background-repeat\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"border-c",
+				"border-collapse\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"te",
+				"text-transform\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text-tr",
+				"text-transform\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Novo Documento de Texto.html",
+			"settings":
+			{
+				"buffer_size": 1434,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MC 27/Desktop/JQUERY/estilo.css",
+		"/C/Users/MC 27/Desktop/JQUERY/JQ2/botao",
+		"/C/Users/MC 27/Desktop/JQUERY/html.html",
+		"/C/Users/MC 27/Desktop/JQUERY/thumbs.js",
+		"/C/Users/MC 27/Desktop/JQUERY/html",
+		"/C/Users/MC 27/Desktop/termino/estilo.css",
+		"/C/Users/MC 27/Desktop/termino/thumbs.js",
+		"/C/Users/MC 27/Desktop/termino/index.html",
+		"/C/Users/MC 27/Desktop/termino/jquery-3.2.1.min.js",
+		"/C/Users/MC 27/Desktop/Fontes/index.html",
+		"/C/Users/MC 27/Desktop/Javascript/javascript30_brinks.html",
+		"/C/Users/MC 27/Desktop/Fontes/css/stylesheet.css",
+		"/C/Users/MC 27/Desktop/Fontes/css/stylesheet.sublime-project",
+		"/C/Users/MC 27/Desktop/termino/fale-conosco.html",
+		"/C/Users/MC 27/Desktop/termino+extras/index.html",
+		"/C/Users/MC 27/Desktop/Fontes/css/stylesheet",
+		"/C/Users/MC 27/Desktop/css/Fontes/index.html",
+		"/C/Users/MC 27/Desktop/css/Fontes/css/stylesheet"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Novo Documento de Texto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								540,
+								540
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estrutura.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
